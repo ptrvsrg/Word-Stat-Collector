@@ -1,6 +1,6 @@
 # Задание 1. Контейнеры, IO потоки, классы Object и String.
 
-[![Testing](https://github.com/ptrvsrg/Word-Stat-Collector/actions/workflows/maven.yml/badge.svg)](https://github.com/ptrvsrg/Word-Stat-Collector/actions/workflows/maven.yml)
+[![Testing](https://github.com/ptrvsrg/word-stat-collector/actions/workflows/maven.yml/badge.svg)](https://github.com/ptrvsrg/word-stat-collector/actions/workflows/maven.yml)
 
 ## Условия
 Написать программу, которая будет принимать в качестве аргумента имя текстового файла,
